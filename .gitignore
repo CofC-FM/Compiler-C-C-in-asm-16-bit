@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#miei file di test sinassi
+test.c++
+test.asm
+
 # Compiled Object files
 *.slo
 *.lo
