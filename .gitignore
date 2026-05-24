@@ -4,6 +4,7 @@
 #miei file di test sinassi
 test.c++
 test.asm
+output.asm
 
 # Compiled Object files
 *.slo
